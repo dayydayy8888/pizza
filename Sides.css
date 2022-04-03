@@ -1,0 +1,330 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 684px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin: 70px 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 273px;
+  background-image: url("648615791-0.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 273px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-size: 0.9375rem;
+  margin: 20px auto 0 0;
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 273px;
+  background-image: url("277832e5d93e9919134ef3c85b592aaced88439d13b1d4b54ba8a7ae6429b2cca30fc411e876dc067ecb9b54123bf32e992320095a4b6b74106b79_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-4 {
+  min-height: 273px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  font-size: 0.9375rem;
+  margin: 20px auto 0 0;
+  padding: 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-layout-cell-5 {
+  min-height: 273px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: none;
+  font-size: 0.9375rem;
+  margin: 20px auto 0 0;
+  padding: 0;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-text-6 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-image-3 {
+  min-height: 273px;
+  background-image: url("Homemade-Mozzarella-Sticks-Recipe-1-of-1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-7 {
+  min-height: 273px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-7 {
+  padding: 30px;
+}
+
+.u-section-1 .u-btn-4 {
+  border-style: none;
+  font-size: 0.9375rem;
+  margin: 20px auto 0 0;
+  padding: 0;
+}
+
+.u-section-1 .u-text-7 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-text-8 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-image-4 {
+  min-height: 273px;
+  background-image: url("8f278d5e0a35775448d277f110c305c07c176c6085f666218bb50627666bffe56e5bd774e1773fc26e0aec1b14c18c8d1f16f9bc54ace0cdc48804_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-8 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 225px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 225px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 225px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 225px;
+  }
+
+  .u-section-1 .u-layout-cell-5 {
+    min-height: 225px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 225px;
+  }
+
+  .u-section-1 .u-layout-cell-7 {
+    min-height: 225px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 225px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 948px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 345px;
+    order: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    order: 1;
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 345px;
+    order: 3;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    order: 2;
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-5 {
+    order: 1;
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 345px;
+    order: 0;
+  }
+
+  .u-section-1 .u-layout-cell-7 {
+    order: 2;
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 345px;
+    order: 3;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1852px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 518px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 518px;
+    order: 2;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    order: 3;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 518px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-7 {
+    order: 3;
+  }
+
+  .u-section-1 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 518px;
+    order: 2;
+  }
+
+  .u-section-1 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 304px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 326px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 326px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 326px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 326px;
+  }
+}
